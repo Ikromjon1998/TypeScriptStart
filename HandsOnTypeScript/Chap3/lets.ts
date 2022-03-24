@@ -7,6 +7,6 @@ namespace lets {
         val2 = 3; 
     } 
     console.log(val1); 
-    console.log(val2); 
+    // console.log(val2); let is not const 
 
 }
