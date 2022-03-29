@@ -12,4 +12,4 @@ console.log('some are blue', widgets.some(item => {
 
 console.log("every one is blue", widgets.every(item=>{
     return item.color === 'blue';
-}));// return boolean value that  is there every value with releted to condition
+}));// return boolean value that every value releted to condition
